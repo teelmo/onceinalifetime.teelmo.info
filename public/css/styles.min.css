@@ -158,11 +158,13 @@ body {
 }
 .app___2khK2 .content___ITztN .page___3C17w {
   align-items: center;
+  box-sizing: border-box;
   display: flex;
   font-family: Open Sans;
   font-weight: 400;
   height: 100vh;
   justify-content: center;
+  padding: 0 10px;
   text-align: center;
   width: 100%;
 }
